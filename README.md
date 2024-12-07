@@ -3,7 +3,7 @@
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 
-# Education
+## 🎓 Education
 
 ### Master’s degree in Network Science (University of Tehran, Nov 2020 - Jan 2023)
 - **GPA:** 3.9 out of 4 (18.52 / 20)
@@ -13,7 +13,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 ### Bachelor’s degree in Information Technology (Shahid Madani University, Sep 2007 - Dec 2011)
 - **Capstone project:** Building a secure SMS platform using end-to-end encryption for message delivery.
 
-## Research Interests
+## 👨‍💻 Research Interests
 
 - Graph Nerual Network  
 - Language Modeling  
@@ -22,14 +22,14 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 - Object Detection  
 - Question Answering
 
-## Technical Skills
+## ⚙️ Technical Skills
 
 - **Programming:** Python (PyTorch, SkLearn, NumPy, Pandas, OpenCV), SQL  
 - **Research Methodology:** Study Review, Statistical Analysis,  
 - Soft Skills Teaching, Leadership, Event Management, Teamwork, Project Management  
 - **Language Skills:** Persian (Native), English (IELTS: 6.5)
 
-## Work Experience
+## 🏢  Work Experience
 #### Mofid Security (Machine Learning Engineer,  Jan 2022 - Present)
 * Integrated a Retrieval-Augmented Generation (RAG) based question-answering system into the company’s customer chatbot, improving query understanding, response accuracy, and overall customer support capabilities.
 
@@ -40,9 +40,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 - Developed an LDA-based text summarization system for call transcripts, expediting the identification of customer pain points and boosting call center efficiency, while integrating real-time analysis and CRM connectivity to deliver actionable business insights.  
 - Improved sentiment analysis algorithms for call transcripts, achieving a substantial increase in  customer satisfaction detection accuracy, from 83.2% to 91.1%.
 
-## Fanava
-
-#### Fanava June (Software Engineer, 2012 - Dec 2021) 
+#### Fanava (Software Engineer, 2012 - Dec 2021) 
 - Developed a predictive model to estimate personnel exit times, enabling proactive resource planning and reducing employee turnover.  
 
 - Improved demand forecasting accuracy using advanced machine learning algorithms, optimizing  inventory, and operations while reducing stock-outs and costs across industries.  
@@ -57,7 +55,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 -  Led recruitment efforts, designing and implementing rigorous software interview questions and  code challenge assessments.  
 -  Successfully hired and mentored a team of 5 developers from top Iranian universities, facilitating  their professional growth and knowledge enhancement.
 
-# Research Experience
+## 👨‍💻 Research Experience
 
 #### Research Assistant (University of Tehran, Sep 2022 - Present) 
 
@@ -67,7 +65,7 @@ Contributed to the development of a Persian Medical Question Answering System in
 Designed a novel Crowdsourcing-based Open Innovation Business Model leveraging collaborative problem-solving and idea generation to drive organizational growth.
 
 
-## Teaching Experience
+## 🧑‍🏫 Teaching Experience
 
 #### Pytorch tutorial (University of Tehran, April 2023 - July 2023) 
 
@@ -84,15 +82,15 @@ Facilitated simulation and modeling course through homework correction and unwin
 
 Created and taught a neural network lessons, including plans, unwind sessions, and homework correction, fostering an engaging learning environment for students.
 
-## Papers
+## 📃 Papers
 
-- H. Davardoust, H. Zare, H. Rafiee Zade, The Dark Side of Instagram: A Large Dataset for  Identifying Persian Harmful Comments” submitted to SoCal NLP Symposium 2024 (Southern  California Natural Language Processing Symposium), (Accepted, to appear).
-  
+- H. Davardoust, H. Zare, H. Rafiee Zade, The Dark Side of Instagram: A Large Dataset for  Identifying Persian Harmful Comments” submitted to SoCal NLP Symposium 2024 (Southern  California Natural Language Processing Symposium), (Accepted, to appear).  
+
 - H. Rafiee Zade, H. Zare, M. Ghassemi Parsa, H. Davardoust, M. Shariat Bagheri, ”DCOR:  Anomaly Detection in Attributed Networks via Dual Contrastive Learning Reconstruction,” Thirteenth International Conference on Complex Networks and Their Applications 2024, (Accepted,  to appear)  
 - M. Ghafouri, H. Davardoust, H. Rafiee Zade, P. Tajasob, ”Sentiment Analysis of Paris 2024  Olympics Tweets: Insights from Social Media Reactions,” (In Preparation)  
 - H. Davardoust, H. Zare, ”Complex network analysis of keywords co-occurrence in Graph Neural  Network, Learning on Graphs Conference 2024” (under review)
 
-## Honors
+## 🏅 Honors
 
 #### National Entrance Exam (2019) 
  Ranked within the top of 0.5% of the Iranian University  Entrance Exam for Master’s degree amoung 43,532 students
