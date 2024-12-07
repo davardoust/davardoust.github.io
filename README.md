@@ -86,10 +86,11 @@ Created and taught a neural network lessons, including plans, unwind sessions, a
 
 ## Papers
 
-H. Davardoust, H. Zare, H. Rafiee Zade, The Dark Side of Instagram: A Large Dataset for  Identifying Persian Harmful Comments” submitted to SoCal NLP Symposium 2024 (Southern  California Natural Language Processing Symposium), (Accepted, to appear).  
-• H. Rafiee Zade, H. Zare, M. Ghassemi Parsa, H. Davardoust, M. Shariat Bagheri, ”DCOR:  Anomaly Detection in Attributed Networks via Dual Contrastive Learning Reconstruction,” Thirteenth International Conference on Complex Networks and Their Applications 2024, (Accepted,  to appear)  
-• M. Ghafouri, H. Davardoust, H. Rafiee Zade, P. Tajasob, ”Sentiment Analysis of Paris 2024  Olympics Tweets: Insights from Social Media Reactions,” (In Preparation)  
-• H. Davardoust, H. Zare, ”Complex network analysis of keywords co-occurrence in Graph Neural  Network, Learning on Graphs Conference 2024” (under review)
+- H. Davardoust, H. Zare, H. Rafiee Zade, The Dark Side of Instagram: A Large Dataset for  Identifying Persian Harmful Comments” submitted to SoCal NLP Symposium 2024 (Southern  California Natural Language Processing Symposium), (Accepted, to appear).
+  
+- H. Rafiee Zade, H. Zare, M. Ghassemi Parsa, H. Davardoust, M. Shariat Bagheri, ”DCOR:  Anomaly Detection in Attributed Networks via Dual Contrastive Learning Reconstruction,” Thirteenth International Conference on Complex Networks and Their Applications 2024, (Accepted,  to appear)  
+- M. Ghafouri, H. Davardoust, H. Rafiee Zade, P. Tajasob, ”Sentiment Analysis of Paris 2024  Olympics Tweets: Insights from Social Media Reactions,” (In Preparation)  
+- H. Davardoust, H. Zare, ”Complex network analysis of keywords co-occurrence in Graph Neural  Network, Learning on Graphs Conference 2024” (under review)
 
 ## Honors
 
