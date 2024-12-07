@@ -1,6 +1,6 @@
 # Hadi Davardoust
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+Innovative Machine Learning Engineer with a Master’s in Network Science, specializing in NLP and AI-driven solutions. Creator of the largest Persian hate speech dataset, with expertise in cutting-edge AI systems for real-world applications. Passionate about advancing the frontiers of machine learning and impactful research.
 
 
 ## 🎓 Education
