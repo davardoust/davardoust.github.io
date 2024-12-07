@@ -8,7 +8,7 @@ Innovative Machine Learning Engineer with a Master’s in Network Science, speci
 ### Master’s degree in Network Science (University of Tehran, Nov 2020 - Jan 2023)
 - **GPA:** 3.9 out of 4 (18.52 / 20)
 - **Thesis title:** Hate speech classification in social networks using machine learning models
-- **Advisor:** Dr. Hadi Zare  
+- **Advisor:** [Dr. Hadi Zare](https://profile.ut.ac.ir/en/~h.zare)
 
 ### Bachelor’s degree in Information Technology (Shahid Madani University, Sep 2007 - Dec 2011)
 - **Capstone project:** Building a secure SMS platform using end-to-end encryption for message delivery.
