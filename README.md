@@ -15,8 +15,9 @@ Innovative Machine Learning Engineer with a Master’s in Network Science, speci
 
 ## 👨‍💻 Research Interests
 
+- Language Modeling
+- Anomaly detection
 - Graph Nerual Network  
-- Language Modeling  
 - Time-series models  
 - Few-Shot Learning  
 - Object Detection  
@@ -27,7 +28,7 @@ Innovative Machine Learning Engineer with a Master’s in Network Science, speci
 - **Programming:** Python (PyTorch, SkLearn, NumPy, Pandas, OpenCV), SQL  
 - **Research Methodology:** Study Review, Statistical Analysis,  
 - Soft Skills Teaching, Leadership, Event Management, Teamwork, Project Management  
-- **Language Skills:** Persian (Native), English (IELTS: 6.5)
+- **Language Skills:** Persian (Native), English (Duolingo: 130)
 
 ## 🏢  Work Experience
 #### Mofid Security (Machine Learning Engineer,  Jan 2022 - Present)
