@@ -1,8 +1,4 @@
-Here's your CV converted to Markdown format with emojis:
-
----
-
-# 👤 Hadi Davardoust
+# Hadi Davardoust
 
 📧 davardoust@gmail.com  
 📞 [+989353449388](tel:+989353449388)  
