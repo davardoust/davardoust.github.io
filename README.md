@@ -1,110 +1,131 @@
-# Hadi Davardoust
+Here's your CV converted to Markdown format with emojis:
 
-Innovative Machine Learning Engineer with a Master’s in Network Science, specializing in NLP and AI-driven solutions. Creator of the largest Persian hate speech dataset, with expertise in cutting-edge AI systems for real-world applications. Passionate about advancing the frontiers of machine learning and impactful research.
+---
 
+# 👤 Hadi Davardoust
+
+📧 davardoust@gmail.com  
+📞 [+989353449388](tel:+989353449388)  
+💼 [LinkedIn](https://www.linkedin.com/in/hadi-davardoust)  
+🎓 [Google Scholar](https://scholar.google.com/citations?user=gMxlZnkAAAAJ)
+
+---
 
 ## 🎓 Education
 
-### Master’s degree in Network Science (University of Tehran, Nov 2020 - Jan 2023)
-- **GPA:** 4 out of 4 (18.52 / 20)
-- **Thesis title:** Hate speech classification in social networks using machine learning models
-- **Advisor:** [Dr. Hadi Zare](https://profile.ut.ac.ir/en/~h.zare)
+**University of Tehran** | Nov 2020 - Feb 2023  
+*Master's degree in Network Science and Technology, GPA: 4/4 (18.52/20)*
 
-### Bachelor’s degree in Information Technology (Shahid Madani University, Sep 2007 - Dec 2011)
-- **Capstone project:** Building a secure SMS platform using end-to-end encryption for message delivery.
+- 📝 **Thesis:** Hate speech classification in social networks using machine learning models, supervised by [Dr. Hadi Zare](https://scholar.google.com/citations?hl=en&user=8_lo320AAAAJ)
+- 📚 **Selected Courses:** Machine Learning and Data Mining (18.25/20), Simulation and Modeling (20/20), Cellular Automation and Complexity (18.5/20), Advanced Network Science (18.3/20), Mathematical Theory of Systems (18.52/20), Special Topics (19.74/20)
 
-## 👨‍💻 Research Interests
+**Shahid Madani University** | Sep 2007 - March 2012  
+*Bachelor's degree in Information Technology engineering*
 
-- Language Modeling
-- Anomaly detection
-- Graph Nerual Network  
-- Time-series models  
-- Few-Shot Learning  
-- Object Detection  
-- Question Answering
+- 💻 **Capstone Project:** Building a Java SMS platform using Bluetooth for message delivery
 
-## ⚙️ Technical Skills
+---
 
-- **Programming:** Python (PyTorch, SkLearn, NumPy, Pandas, OpenCV), SQL  
-- **Research Methodology:** Study Review, Statistical Analysis,  
-- Soft Skills Teaching, Leadership, Event Management, Teamwork, Project Management  
-- **Language Skills:** Persian (Native), English (Duolingo: 130)
+## 🔬 Research Interests
 
-## 🏢  Work Experience
-#### Mofid Security (Machine Learning Engineer,  Jan 2022 - Present)
-* Integrated a Retrieval-Augmented Generation (RAG) based question-answering system into the company’s customer chatbot, improving query understanding, response accuracy, and overall customer support capabilities.
+| | | |
+|---|---|---|
+| 🧠 Large Language Models | 🏥 Healthcare Applications | 🔍 Anomaly Detection |
+| 🩻 Medical Imaging | 🕸️ Graph Neural Networks | 📊 Network Analysis |
+| 📈 Medical Data Representation | 🔄 Transfer Learning | 👁️ Computer Vision |
 
-- Developed and implemented Liveness Detection algorithms for e-KYC systems, incorporating facial recognition, motion analysis, and biometric data to verify user authenticity and enhance security.  
+---
 
-- Enhanced Face Verification accuracy by optimizing the FaceNet algorithm implementation, resulting in a significant improvement in performance from 91.32% to 98.34%.
-  
-- Utilized Docker to enhance e-KYC projects, ensuring consistent environments, streamlined dependency management, and easy deployment. Improved scalability, resource management, and CI/CD integration, fostering collaboration and productivity.
-  
-- Developed an LDA-based text summarization system for call transcripts, expediting the identification of customer pain points and boosting call center efficiency, while integrating real-time analysis and CRM connectivity to deliver actionable business insights.
-  
-- Improved sentiment analysis algorithms for call transcripts, achieving a substantial increase in  customer satisfaction detection accuracy, from 83.2% to 91.1%.
+## 🛠️ Skills
 
-#### Fanava (Software Engineer, 2012 - Dec 2021) 
-- Developed a predictive model to estimate personnel exit times, enabling proactive resource planning and reducing employee turnover.  
+- **💻 Programming:** Python; SQL; JavaScript; C/C++; Bash
+- **🤖 LLM Technologies:** LangChain; RAG; MCP; OpenAI API; Vector Databases
+- **📊 Data Processing:** Pandas; NumPy; SciPy; Matplotlib; Jupyter
+- **🗣️ Language Proficiency:** Duolingo English Test: 130 (Dec 2024)
 
-- Improved demand forecasting accuracy using advanced machine learning algorithms, optimizing  inventory, and operations while reducing stock-outs and costs across industries.
-  
-- Designed and implemented comprehensive HR solutions to manage the needs of over 800 personnel, providing essential reports for HR department and management teams.
-  
--  Developed a comprehensive data warehouse solution with efficient ETL processes, integrating data  from existing ERP systems to ensure data integrity, accessibility, and centralized data management.
-  
--  Implemented powerful BI reports using Power BI, enabling stakeholders to gain insights through interactive visualizations and data-driven decision-making and process optimization across the  organization.
-  
--  Created BI dashboards for CEO-level HR analytics, including workforce turnover, payrolls, and  work hours, enabling data-driven decision-making and strategic planning.
-  
--  Developed a Project Management system integrated with Microsoft Project Server, focusing on  Business Intelligence solutions to enhance project planning and tracking.
-  
--  Designed and implemented a Security Management System integrated with Biostar attendance  devices, aimed at effectively monitoring and controlling user traffic within the organization.
-  
--  Developed a Quality Assurance Management system utilizing suitable technologies to meet specific  demands, ensuring high-quality deliverables and efficient processes.
-    
--  Implemented tailored timesheet and tasksheet solutions to accommodate the diverse needs of employees across departments, generating crucial reports for HR and management purposes.
-  
--  Led recruitment efforts, designing and implementing rigorous software interview questions and  code challenge assessments.
-  
--  Successfully hired and mentored a team of 5 developers from top Iranian universities, facilitating  their professional growth and knowledge enhancement.
+---
 
-## 👨‍💻 Research Experience
+## 💼 Work Experience
 
-#### Research Assistant (University of Tehran, Sep 2022 - Present) 
+### 🏢 Saman Insurance | Jun 2024 - Present  
+*Machine Learning Engineer | Tehran, Iran*
 
-Contributed to the development of a Persian Medical Question Answering System in a research  lab, applying advanced NLP techniques for accurate information retrieval and response generation to improve access to critical medical information for Persian speakers.
+- 🔎 Built a retrieval system processing 10M+ medical documents annually, measuring retrieval reliability (90% confidence) versus insufficient evidence cases
+- 📄 Developed document classifier categorizing medical records into 8 types (prescriptions, lab results, doctor reports) with 68% accuracy, flagging uncertain predictions for human review
+- ⚠️ Designed anomaly detection tools flagging unusual/incomplete patient-submitted documents during medical claim processing
+- 🌐 Created Iran's first fully online health insurance platform with real-time policy visibility, revealing gaps in patient records for certain subgroups
+- 🤝 Collaborated on automated claim triage system identifying cases requiring human adjudication due to insufficient/conflicting data
 
-#### Research Assistant (ICT Research Institute, April 2013 - March 2013) 
-Designed a novel Crowdsourcing-based Open Innovation Business Model leveraging collaborative problem-solving and idea generation to drive organizational growth.
+### 📈 Mofid Securities | Jan 2022 - Jun 2024  
+*Machine Learning Engineer | Tehran, Iran*
 
+- 💬 Improved sentiment analysis for call transcripts, boosting customer satisfaction detection accuracy from 83.2% to 91.1%
+- 📝 Developed LDA-based text summarization system for call transcripts, expediting customer pain point identification
+- 🎭 Implemented Liveness Detection algorithms for e-KYC systems using facial recognition, motion analysis, and biometric data
+- 👤 Enhanced Face Verification accuracy by optimizing FaceNet algorithm (89.32% → 95.34%)
+- 🐳 Utilized Docker for e-KYC projects, ensuring consistent environments and streamlined deployment
 
-## 🧑‍🏫 Teaching Experience
+### 💻 Fanava | June 2012 - Dec 2021  
+*Software Engineer | Tehran, Iran*
 
-#### Pytorch tutorial (University of Tehran, April 2023 - July 2023) 
+- 📊 Developed predictive model for personnel exit time estimation, enabling proactive resource planning
+- 🔮 Improved demand forecasting accuracy using advanced ML algorithms
+- 👥 Designed comprehensive HR solutions for 800+ personnel including insurance and benefits management
+- 🗄️ Developed data warehouse solution with ETL processes, integrating data from existing ERP systems
+- 📊 Implemented BI reports using Power BI for interactive visualizations and data-driven decisions
+- 👨‍💼 Created CEO-level HR analytics dashboards (turnover, payrolls, healthcare, work hours)
+- 📋 Developed Project Management system integrated with Microsoft Project Server
+- ✅ Developed Quality Assurance Management system
+- ⏱️ Implemented tailored timesheet and tasksheet solutions across departments
+- 🎯 Led recruitment efforts, designing interview questions and code challenge assessments
+- 👨‍🏫 Hired and mentored a team of 5 developers from top Iranian universities
 
-Instructed PyTorch workshops for students encountering challenges with dissertation projects,  promoting effective deep learning implementation and research progression.
+---
 
-#### Introduction to Python (University of Tehran, Sep 2022 - Dec 2022) 
-Instructed introductory Python courses for new students in faculty forums, fostering foundational programming skills and engaging the academic community.
+## 🔬 Research Experience
 
-#### Teaching Assistant of Simulation and Modeling (University of Tehran, March 2022 - July 2022) 
+### 🏥 University of Tehran, DSP Lab | Sep 2022 - Present  
+*Research Assistant | Tehran, Iran*
 
-Facilitated simulation and modeling course through homework correction and unwind sessions, supporting students’ understanding of key concepts and applications.
+- 🩺 Contributed to Persian Medical Question Answering System development, applying advanced NLP techniques for accurate information retrieval and response generation
 
-#### Teaching Assistant of Machine learning and Pattern Recognition (University of Tehran, Sep 2021 - March 2022) 
+### 🧬 University of Tehran, Kavosh Lab | Sep 2021 - Present  
+*Research Assistant | Tehran, Iran*
 
-Created and taught a neural network lessons, including plans, unwind sessions, and homework correction, fostering an engaging learning environment for students.
+- ⚗️ Researched and implemented novel Graph Neural Network architectures (including Graph Transformers) for molecular property prediction, improving MAE by 4.5% over previous best model
 
-## 📃 Papers
+---
 
-- H. Davardoust, H. Zare, H. Rafiee Zade, The Dark Side of Instagram: A Large Dataset for  Identifying Persian Harmful Comments” submitted to SoCal NLP Symposium 2024 (Southern  California Natural Language Processing Symposium), (Accepted, to appear).  
+## 👨‍🏫 Teaching Experience
 
-- H. Rafiee Zade, H. Zare, M. Ghassemi Parsa, H. Davardoust, M. Shariat Bagheri, ”DCOR:  Anomaly Detection in Attributed Networks via Dual Contrastive Learning Reconstruction,” Thirteenth International Conference on Complex Networks and Their Applications 2024, (Accepted,  to appear)
-  
-- H. Davardoust, H. Zare, ”Complex network analysis of keywords co-occurrence in Graph Neural  Network, Learning on Graphs Conference 2024” (under review)
+- **🎓 PyTorch Tutorial** | University of Tehran | April 2023 - July 2023  
+  Instructed PyTorch workshops for students working on dissertation projects
 
-## 🏅 Honors
+- **🐍 Introduction to Python** | University of Tehran | Sep 2022 - Dec 2022  
+  Instructed introductory Python courses for new students in faculty forums
 
-#### National Entrance Exam (2019) 
- Ranked within the top of 0.5% of the Iranian University  Entrance Exam for Master’s degree amoung 43,532 students
+- **📐 Simulation and Modeling (TA)** | University of Tehran | March 2022 - July 2022  
+  Facilitated course through homework correction and unwind sessions
+
+- **🤖 Machine Learning and Pattern Recognition (TA)** | University of Tehran | Sep 2021 - March 2022  
+  Created and taught neural network lessons including plans, unwind sessions, and homework correction
+
+---
+
+## 📄 Papers
+
+- 📝 H. Davardoust, H. Zare, H. Rafiee Zade, "[The Dark Side of Instagram: A Large Dataset for Identifying Persian Harmful Comments](https://www.researchgate.net/publication/386905191)" — *submitted to SoCal NLP Symposium 2024*
+
+- 📝 H. Rafiee Zade, H. Zare, M. Ghassemi Parsa, H. Davardoust, M. Shariat Bagheri, "[DCOR: Anomaly Detection in Attributed Networks via Dual Contrastive Learning Reconstruction](https://link.springer.com/chapter/10.1007/978-3-031-82435-7_1)" — *Thirteenth International Conference on Complex Networks and Their Applications 2024*
+
+- 📝 H. Davardoust, H. Zare, "Complex network analysis of keywords co-occurrence in Graph Neural Network" — *Learning on Graphs Conference 2025*
+
+---
+
+## 🏆 Honors
+
+- 🥇 Ranked in **top 0.5%** in National University Entrance Examination for Master's Programs in Computer Engineering (2020)
+- 🥈 **2nd Place** in Master's Program in Network Science and Technology at University of Tehran (2023), based on cumulative GPA
+- 🏅 Received **Outstanding Master's Thesis Award** for best thesis in the program (2023), achieving highest possible score in defense
+
+---
